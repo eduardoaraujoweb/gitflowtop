@@ -1,3 +1,3 @@
 # gitflowtop
 
-ALTERAÇÃO EITA DIRETO NO GITHUB (2)
+BUG RESOLVIDO
